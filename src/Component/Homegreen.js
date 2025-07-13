@@ -140,7 +140,7 @@ function Homegreen() {
     {/* <Link to="/green"> Add a Link to "/green" here */}
       <Product
         id="875617"
-        title="Qudrat Natural Straw | Coconut Leaf | Biodegradable, Eco-Friendly & Sustainable Drinking Straws (Pack of 100)"
+        title="Bamboo Glasses | Leaf | Biodegradable, Eco-Friendly & Sustainable Sunglasses (Pack of 100)"
         price={8.99}
         carbon_red={75}
         rating={4}

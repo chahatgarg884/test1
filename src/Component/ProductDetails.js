@@ -59,8 +59,7 @@ function ProductDetails() {
 
       <div className="img-desc">
         <h2>
-          Qudrat Natural Straw | Coconut Leaf | Biodegradable, Eco-Friendly &
-          Sustainable Drinking Straws (Pack of 100)
+          Bamboo Glasses | Leaf | Biodegradable, Eco-Friendly & Sustainable Sunglasses (Pack of 100)
         </h2>
         <p>⭐⭐⭐⭐ (23 reviews)</p>
         <br></br>
@@ -128,7 +127,7 @@ function ProductDetails() {
           onClick={() =>
             addToBasket(
               "875617",
-              "Qudrat Natural Straw | Coconut Leaf | Biodegradable, Eco-Friendly & Sustainable Drinking Straws (Pack of 100)",
+              "Bamboo Glasses | Leaf | Biodegradable, Eco-Friendly & Sustainable Sunglasses (Pack of 100)",
               "../images/straw_eco.jpg",
               8.99,
               4,

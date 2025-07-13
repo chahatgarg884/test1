@@ -120,7 +120,7 @@ function Home() {
               <div className="home__product-mini">
                 <Productbutton
                   id="12321341"
-                  title="Disposable Plastic Drinking Straws"
+                  title="Plastic Sunglasses"
                   price={7.50}
                   rating={3}
                   image="../images/straw.jpg"
