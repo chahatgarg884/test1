@@ -33,7 +33,7 @@ const AmazonNavigationBarg = () => {
           <Link style={{textDecoration: 'none'}} to = "/sustainability">
           <li><button className="nav-button-blue">Sustainability Reports</button></li>
           </Link>
-          <Link style={{textDecoration: 'none'}} to = "/rewards">
+          <Link style={{textDecoration: 'none'}} to = "/green-rewards">
           <li><button className="nav-button-blue">Rewards</button></li>
           </Link>
           <li><button className="nav-button-blue">More</button></li>
